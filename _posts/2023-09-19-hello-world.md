@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hi!
+title: Hello world
+tags:
+ - Hello World
 ---
-
-Hello world!!
