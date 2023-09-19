@@ -10,8 +10,23 @@ description: Robotics Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/sitb157/sitb157.github.io/assets/108820413/e548ba7d-c013-45e2-9983-325ac8b2cfe3
+#
 # Flags below are optional
 #
+
+# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
+# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
+# it from the list(Delete '- name: ' and 'url: ', too!)
+navigation:
+  - name: Blog
+    url: /
+  - name: About
+    url: /about
+  - name: Tags
+    url: /tags
+
+# Pagination
+paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
