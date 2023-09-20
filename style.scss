@@ -53,6 +53,9 @@ h1 {
 
 h2 {
   font-size: 24px;
+  @include mobile {
+    font-size: 11px;
+  }
 }
 
 h3 {
@@ -220,7 +223,7 @@ nav {
     float: left;
     margin-top: 16px;
     display: block;
-    font-size: 24px;
+    font-size: 20px;
   }
 
   a {
