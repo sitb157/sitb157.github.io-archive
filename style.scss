@@ -231,7 +231,7 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
+      // margin: 0 10px;
       color: $darkGray;
     }
   }
