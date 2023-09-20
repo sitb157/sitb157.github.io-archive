@@ -53,9 +53,6 @@ h1 {
 
 h2 {
   font-size: 24px;
-  @include mobile {
-    font-size: 11px;
-  }
 }
 
 h3 {
