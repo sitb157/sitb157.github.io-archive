@@ -18,7 +18,8 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$Monospace: monospace, Georgia, serif, Arial;
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+$oswald: 'Oswald', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
