@@ -213,7 +213,8 @@ img {
 nav {
   float: left;
   margin-top: 15px; // @TODO: Vertically middle align
-  font-family: $oswald;
+  //font-family: $oswald;
+  font-family: $ubuntu;
   font-size: 25px;
 
   @include mobile {
